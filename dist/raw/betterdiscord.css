@@ -1147,7 +1147,7 @@ div.container-2Thooq:not(.powercord-spotify) {
         width: 24px;
         border-radius: 50%; }
   div.container-2Thooq:not(.powercord-spotify) div.accountDetails-3k9g4n {
-    font-size: 60px;
+    font-size: 16px;
     line-height: normal;
     -webkit-user-select: none;
        -moz-user-select: none;
@@ -2220,7 +2220,7 @@ h5.header-2BTCnc {
   div.platform-linux h5.header-2BTCnc {
     letter-spacing: -0.4px; }
 div.guildIcon-lQ0uiM {
-  border-radius: 15%; }
+  border-radius: 50%; }
 div.guildName-2hvnt_ {
   font-size: 16px;
   font-weight: 600;
@@ -2229,7 +2229,7 @@ div.guildName-2hvnt_ {
   div.platform-linux div.guildName-2hvnt_ {
     letter-spacing: -0.4px; }
 div.guildDetail-1nRKNE {
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 600;
   letter-spacing: normal;
   line-height: normal; }
