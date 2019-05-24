@@ -1,3 +1,4 @@
-# fluentdiscord
-This is not my repository, i add this for edit this theme
-# ORIGINAL: https://github.com/intrnl/fluentdiscord
+# Theme Repository
+This is big theme repository for BetterDiscord
+# ORIGINALS THEMES: https://github.com/intrnl/fluentdiscord
+  | ??
